@@ -70,7 +70,7 @@ multilingual_datasets_for-emotion-detection/
    pip install -r requirements.txt
    ```
 
-   *Note: Ensure that `requirements.txt` is present in the repository with all necessary dependencies listed.*
+
 
 ### Usage
 
